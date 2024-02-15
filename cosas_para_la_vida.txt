@@ -1,0 +1,20 @@
+[
+  "Más días",
+  "Dinero",
+  "Más dinero",
+  "Que todo marche bien",
+  "Más dinero aún",
+  "Ser feliz :)",
+  "Eliminar PHP",
+  "Vida saludable",
+  "Viajar mucho",
+  "Levantar más kg",
+  "Aprobar todo",
+  "Estabilidad emocional",
+  "Que sea entretenida",
+  "Que sea leve",
+  "Estabilidad, felicidad, tiempo libre",
+  "Muy buena suerte",
+  "Tiempo",
+  "AMOR"
+]
